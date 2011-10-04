@@ -1,0 +1,15 @@
+64c62b7969402249f5466e0803fc30b2 *DESCRIPTION
+c96e583610128e99e15866b079a845bc *NAMESPACE
+f01e28de3d537620e5dbd675777e2b16 *R/PL.popN.R
+e7d93ad85c555a973268e072b9a2150f *R/PL.popN0.R
+bd07c53a9d8fc446c06b61f91785d142 *R/print.PL.popN.R
+9eede92ff7e97e7d826f8ddb944d0b8b *data/bird.txt
+c516d885fb138e5e6b4a2b4694abf80a *data/mouse.txt
+7aae44ecd2dc9a736c3298027a3a3739 *data/possum.txt
+ce6d498498fedec89e9f0594e65641ec *man/PL.popN-package.Rd
+8123d38df8e0575b9117582fb6f26b62 *man/PL.popN.Rd
+6a560bd51533af725aa6d7ccd37e828b *man/PL.popN0.Rd
+7e56b08bad99d6cceb37982cc3022cbb *man/bird.Rd
+1aacaf719d5b4f7d6142fd05206d36d4 *man/mouse.Rd
+d47f1289b0d7bf1ef965e05875ee207e *man/possum.Rd
+832ca38df0e0e9674f48d23d56200946 *man/print.PL.popN.Rd

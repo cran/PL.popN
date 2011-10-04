@@ -7,11 +7,11 @@
 \title{Harvest Mouse Capture-Recapture Data Set.}
 
 \description{
-A capture-recapture data set consisting of 14 capture occasions on the Harvest 
-Mouse (\emph{Micromys minutus}) at the Wulin Recreation Area in Shei-Pa National 
+A capture-recapture data set consisting of 14 capture occasions on the harvest 
+mouse (\emph{Micromys minutus}) at the Wulin Recreation Area in Shei-Pa National 
 Park, Taiwan in the summer of 2008. The body weight (g) for each captured 
 individual was also measured. The data set contains capture histories and 
-covariate information on 142 captured individuals Stoklosa et al. (To appear). 
+covariate information on 142 captured individuals Stoklosa et al. (2011). 
 }
 
 \usage{mouse}
@@ -24,12 +24,12 @@ i numeric the ith individual.
 y numeric number of times the ith individual has been captured in 14 capture 
 occasions. 
 
-t numeric first time the individual has been captured.
+t1 numeric first time the individual has been captured.
 
 x numeric body mass (g) of the ith individual (covariate).
 }
 
-\references{Stoklosa, Hwang, Wu and Huggins. (In Press). Heterogeneous 
+\references{Stoklosa, Hwang, Wu and Huggins. (2011). Heterogeneous 
 capture-recapture models with covariates: A partial likelihood approach for 
 closed populations. \emph{Biometrics}.
 }
